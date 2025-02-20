@@ -14,12 +14,6 @@ This project contains a **Selenium automation script** (`qa_selenium_test.py`) t
 
 ## 📂 Project Structure  
 
-
-
-
-
-
-
 selenium-test/ │── qa_selenium_test.py # Selenium test script │── requirements.txt # List of dependencies │── README.md # Project documentation │── search_results.png # Screenshot of test result (generated after running the test)
 ---
 
@@ -36,11 +30,11 @@ selenium-test/ │── qa_selenium_test.py # Selenium test script │── re
 
   2️⃣ Install Dependencies
 Install Selenium, pytest, and Chrome WebDriver Manager by running:
+
 sh
 
 pip install -r requirements.txt
 If requirements.txt is not available, manually install:
-
 
 sh
 
